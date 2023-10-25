@@ -26,3 +26,8 @@ As we know, tic tac toe always has horizontal, vertical and diagonal winning for
 ### AI Algorithms
 Finally, I've used minimax algorithm to find the most advantage of the game possibility for AI winning's the game. So, how minimax works?
 Reference : https://www.javatpoint.com/mini-max-algorithm-in-ai
+
+### Setup & Installation
+1. Download file apk of this game from the follow link : https://drive.google.com/drive/folders/1Kw7fw7gvVXKVxpQMy278vKGwYCBe6sJN?usp=sharing
+2. And then, drag the downloaded apk file into android emulators such as LDPlayer (recommended), NOX, BlueStacks or etc and wait for installation
+3. Open the game and enjoy! 🤗
