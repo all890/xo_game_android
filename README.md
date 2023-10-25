@@ -14,8 +14,12 @@
 3. On AI mode, player will play with an AI (Artificial Intelligence) which only available in the 3x3 board size.
 4. Players can check the game history from see game details history choice and can watch the replay of the game directly on the screen.
 
-### Used Algorithm
+### Win Checking Algorithm
 As we know, tic tac toe always has horizontal, vertical and diagonal winning forms. So I will bring you to figure out how my code check winning as I said
-1. :arrow_right: Horizontal forms :arrow_left: : For this form I used 2 loops run through the board as row and column horizontally. For examples if we play on 3x3, the numbers of horizontal line will be 3 obviously. Then I've get the characters of player (X,O) along each line to check that if characters of player are the same all the line, so that player will win. ;)
-2. :arrow_down: Vertical forms :arrow_up: : Same steps as horizontal form, just change it into vertical by swop the index order of array.
-3. 
+1. :arrow_right: Horizontal Forms :arrow_left: : For this form I used 2 loops run through the board as row and column horizontally. For examples if we play on 3x3, the numbers of horizontal line will be 3 obviously. Then I get characters of player (X,O) along each line to check that if all characters of player are the same all the line, so that player will win. ;)
+2. :arrow_down: Vertical Forms :arrow_up: : Same steps as horizontal form, just change it into vertical by swopping the index order of array.
+3. :arrow_lower_right: Diagonal Forms :arrow_upper_left: : This form gets a little bit harder from the two first checking, because diagonal form is so different from two first checking. The trick to checking this form is you need to know the possibility of diagonal line's drawing on the board. For sample if I play on 3x3 the possibility numbers of diagonal line will be 2 and 5x5 will be 8. I've code to check this form by checking all diagonal possibilities.
+
+### AI Algorithms
+Finally, I've used minimax algorithm to find the most advantage of the game possibility for winning the game. So, how minimax works?
+https://www.javatpoint.com/mini-max-algorithm-in-ai
