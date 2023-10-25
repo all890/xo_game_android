@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xochoice">
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="sizechoice">
+        <item>3x3 (3 แต้ม)</item>
+        <item>4x4 (4 แต้ม)</item>
+        <item>5x5 (4 แต้ม)</item>
+        <item>6x6 (5 แต้ม)</item>
+        <item>7x7 (5 แต้ม)</item>
+        <item>8x8 (5 แต้ม)</item>
+        <item>9x9 (5 แต้ม)</item>
+        <item>10x10 (5 แต้ม)</item>
+        <item>11x11 (6 แต้ม)</item>
+    </string-array>
+</resources>
