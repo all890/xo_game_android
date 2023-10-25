@@ -1,5 +1,8 @@
 # xo_game_android
 
+### Design Concepts
+The design of this game based on the global Tic Tac Toe rules and from requirements of internship selection's exercise
+
 ### Details of the Game
 1. This game (Tic Tac Toe) can play on 2 modes, included with multiplayer and AI.
 2. On multiplayer mode, players can choose the size of the board as follow.
