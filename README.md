@@ -3,8 +3,8 @@
 ### Details of the Game
 1. This game (Tic Tac Toe) can play on 2 modes, included with multiplayer and AI.
 2. On multiplayer mode, players can choose the size of the board as follow.
-   2.1 3x3 (3 in row)
-   2.2 4x4 (3 in row)
+   - 3x3 (3 in row)
+   - 4x4 (3 in row)
    2.3 5x5 (4 in row)
    2.5 6x6 (5 in row)
    2.6 7x7 (6 in row)
