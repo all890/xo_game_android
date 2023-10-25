@@ -16,4 +16,4 @@
 
 ### Used Algorithm
 As we know, tic tac toe always has horizontal, vertical and diagonal winning forms. So I will bring you to figure out how my code check winning as I said
-1. :arrow_right: Horizontal forms :arrow_right: : For this form I used 2 loops run through the board as row and column of the board horizontally, for examples
+1. :arrow_right: Horizontal forms :arrow_right: : For this form I used 2 loops run through the board as row and column horizontally. For examples if we play on 3x3, the numbers of horizontal line will be 3 obviously. Then I've get the characters of player (X,O) along each line to check that if characters of player are the same all the line, so that player will win. ;)
