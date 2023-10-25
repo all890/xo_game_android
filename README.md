@@ -10,10 +10,10 @@ The design of this game based on the global Tic Tac Toe rules and from requireme
    - 4x4 (3 in row)
    - 5x5 (4 in row)
    - 6x6 (5 in row)
-   - 7x7 (6 in row)
-   - 8x8 (6 in row)
-   - 9x9 (6 in row)
-   - 10x10 (6 in row)
+   - 7x7 (5 in row)
+   - 8x8 (5 in row)
+   - 9x9 (5 in row)
+   - 10x10 (5 in row)
 3. On AI mode, player will play with an AI (Artificial Intelligence) which only available in the 3x3 board size.
 4. Players can check the game history from see game details history choice and can watch the replay of the game directly on the screen. This use case used SQLite database to collect all game histories.
 
